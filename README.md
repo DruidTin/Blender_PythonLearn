@@ -1,0 +1,2 @@
+# Blender_PythonLearn
+這是一個自我學習Blender Python Script的GitHub
