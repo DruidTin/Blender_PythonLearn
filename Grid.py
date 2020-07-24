@@ -4,7 +4,7 @@ import bpy
 name = 'Gridtasric'
 rows = 5
 columns = 10
-verts = [(0,0,0)]
+verts = [(x,0,0) for x in range(columns)]
 faces = []
 
 #Create Mesh Datablock
